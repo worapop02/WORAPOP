@@ -1,3 +1,4 @@
+/*
 #include <Arduino.h>
 
 // กำหนดขา ADC สำหรับ Potentiometer 4 ตัว
@@ -95,3 +96,4 @@ void loop() {
   // หน่วงเวลาเล็กน้อย
   delay(10);
 }
+*/
